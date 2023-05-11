@@ -1,0 +1,13 @@
+{
+    "nama" : "Usman AS",
+    "umur" : 33,
+    "nik"  : "00002134",
+    "hobby": [
+        "coding",
+        "gaming"
+    ],
+    "atasan" : {
+        "atasan1": "Bintoro",
+        "atasan2": "Ryan"
+    }
+}
